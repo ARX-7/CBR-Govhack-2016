@@ -1,0 +1,11 @@
+working out dwell time in a parking lot
+    from occupancy data averaged across time, work out on same day every week (one week cycle) or every fortnight (2 week cycle 
+    working across pay fortnight?)
+    also should account for school and public holidays,  a further extension would account for events and their impacts.
+    
+    
+working out trip time (walking) use google transit?
+
+
+working out trip time (disabled) ?  split distance between disabled parking bays.  a further extension would rate on accessability and is likely beyond our scope
+
